@@ -1,5 +1,5 @@
 # this is the file that will not be tracked in Git
 
-/.idea/
+.idea/
 /target/
 *.ilm
