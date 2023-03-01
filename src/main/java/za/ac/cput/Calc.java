@@ -23,4 +23,8 @@ public class Calc {
 
         return (a+b);
     }
+
+    public static String add (String a , String b){
+        return (a+b);
+    }
 }
